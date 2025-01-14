@@ -54,4 +54,9 @@
 -- (164,"Gaurab",89,"A","South 24 Parganas"),
 -- (105,"Subhajeet",81,"A","Medinipur");
 
-select name ,rollno from student where marks > 80 AND city = 'South 24 Parganas';
+-- select name ,rollno from student where marks > 80 AND city = 'South 24 Parganas';
+-- select name from student where city = "Bardhamaan" OR city = "Medinipur";
+-- select * from student where marks between 80 AND 90;
+-- select * from student where city IN ('Bardhamaan','Medinipur');
+-- select * from student where city not in ('South 24 Parganas','Bankura','Medinipur');
+
